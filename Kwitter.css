@@ -1,0 +1,16 @@
+body{
+  background-color: grey;
+}
+#user_name{
+  width: 200px;
+height: 50px;
+}
+#letschat{
+width: 40px;
+height: 40px;
+}
+
+#chat{
+  width: 100px;
+  height: 100px;
+  } 
